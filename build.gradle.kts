@@ -72,7 +72,6 @@ publishing {
                         url.set("https://opensource.org/licenses/MIT")
                     }
                 }
-                url.set("http://kodein.org")
                 issueManagement {
                     system.set("Github")
                     url.set("https://github.com/KodeinKoders/playground-publish-kmp-to-mavencentral/issues")
